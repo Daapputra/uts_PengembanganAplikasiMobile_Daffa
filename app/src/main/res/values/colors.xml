@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 🎨 Warna utama tema biru -->
+    <color name="colorPrimary">#2196F3</color> <!-- biru utama -->
+    <color name="colorPrimaryDark">#1565C0</color> <!-- biru tua -->
+    <color name="colorAccent">#42A5F5</color> <!-- biru muda (highlight) -->
+
+    <!-- 🔹 Variasi biru tambahan -->
+    <color name="blue_100">#BBDEFB</color>
+    <color name="blue_200">#90CAF9</color>
+    <color name="blue_500">#2196F3</color>
+    <color name="blue_700">#1976D2</color>
+    <color name="blue_900">#0D47A1</color>
+
+    <!-- 🌿 Warna pendukung -->
+    <color name="teal_200">#80CBC4</color>
+    <color name="teal_700">#00796B</color>
+
+    <!-- ⚫⚪ Dasar dan teks -->
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="backgroundLight">#FFFFFFFF</color>
+    <color name="textPrimary">#000000</color>
+    <color name="textSecondary">#666666</color>
+</resources>
